@@ -39,5 +39,5 @@ Analyze oil price volatility using ARIMA-GARCH models with geopolitical risk.
 ## Author
 - Ravish Beniwal
 
--IIT Patna
--Economics 28
+- IIT Patna
+- Economics 28
