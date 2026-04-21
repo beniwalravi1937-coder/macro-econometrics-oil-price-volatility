@@ -1,5 +1,5 @@
 # macro-econometrics-oil-price-volatility
-ARIMA-GARCH analysis of crude oil price volatility using geopolitical risk variables.
+ARCH-GARCH VOLATILITY, VAR (IRF), and OLS analysis of crude oil price volatility using geopolitical risk variables.
 
 # Macroeconometric Analysis of Oil Price Volatility
 
