@@ -1,4 +1,5 @@
 # macro-econometrics-oil-price-volatility
+# Python | Econometrics | GARCH | Time Series
 ARCH-GARCH VOLATILITY, VAR (IRF), and OLS analysis of crude oil price volatility using geopolitical risk variables.
 
 # Macroeconometric Analysis of Oil Price Volatility
